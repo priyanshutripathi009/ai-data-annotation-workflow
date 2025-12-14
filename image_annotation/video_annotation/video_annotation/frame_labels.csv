@@ -1,4 +1,0 @@
-video_id,frame_number,label,confidence
-vid_01,120,walking,high
-vid_01,245,vehicle,medium
-vid_02,88,person,high
