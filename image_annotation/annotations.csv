@@ -1,0 +1,4 @@
+image_id,label,confidence,notes
+img_001,person,high,clearly visible
+img_002,car,medium,partially visible
+img_003,animal,low,ambiguous object
